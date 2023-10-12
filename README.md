@@ -9,7 +9,7 @@
 ## Experiência 🦾
 
 * Java 8+
-* Angular 7
+* SpringBoot
 * PostgreSQL
 * MySQL
 * MongoDB
